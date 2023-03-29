@@ -1,2 +1,2 @@
 # Introduccion-a-R
-tarea
+tarea de inteligencia altificial 
